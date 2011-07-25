@@ -3,13 +3,14 @@ Violencia en Tijuana
 
 Para crear las gráficas correr el archivo run-all.R
 
-Directorios
-data : los datos
-gephi : archivo con el grafo del cartel de Tijuana
-graphs y pdfs : los archivos pdf y png son creados en estos directorios
-src: el código en R
+__Directorios__
 
-*Fuentes:*
+* data: los datos
+* gephi: archivo con el grafo del Cartel de Tijuana
+* graphs y pdfs: los archivos pdf y png son creados en estos directorios
+* src: el código en R
+
+__Fuentes:__
 
 _Todas las muertes que ocurrieron en el estado de Baja California de 2004 a 2009 y las muertes que fueron registradas del 2004 al 2009 sin fecha de ocurrencia._
 
